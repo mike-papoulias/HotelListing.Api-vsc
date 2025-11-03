@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mcXhUHwQXXw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mike Papoulias\\Projects\\HotelListing.Api\\HotelListing.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mike Papoulias\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-rc.2.25502.107\\microsoft.aspnetcore.openapi.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\Mike Papoulias\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
